@@ -11,7 +11,7 @@ import streamlit as st
 with open('pipeline_rf_1.pkl', 'rb') as f:
     loaded_pipeline = pickle.load(f)
     
-df = pickle.load(open('car_details_data3.pkl','rb')) 
+#df = pickle.load(open('car_details_data3.pkl','rb')) 
 
 def main():
         # Set page config
