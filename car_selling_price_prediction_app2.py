@@ -3,7 +3,7 @@ import numpy as np    # mathematical computation
 from sklearn import *
 import pickle
 import streamlit as st
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the model and dataset
